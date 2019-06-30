@@ -6,10 +6,35 @@
     <description>Recent content on CUjamin 海浦新生地</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jun 2019 19:52:18 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2019 23:50:50 +0800</lastBuildDate>
     
 	<atom:link href="https://cujamin.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Scrum1 基础概念</title>
+      <link>https://cujamin.github.io/post/scrum1/</link>
+      <pubDate>Sun, 30 Jun 2019 23:50:50 +0800</pubDate>
+      
+      <guid>https://cujamin.github.io/post/scrum1/</guid>
+      <description> 3个角色  产品负责人
+敲定要开发什么，以什么顺序开发
+ ScrumMaster
+在通用的Scrum框架上建立并遵循自己的过程
+ 开发团队
+确定如何交付 产品负责人要求 的 产品
+  3个工件  产品列表（pruduct backlog）
+产品待办列表，指需求清单。
+ 冲刺列表（sprint backlog）
+Sprint待办列表，指Sprint任务清单。
+ 潜在的可交付产品增量
+  5个事件  Sprint（Sprint本身为一个事件，包含其他4个事件）
+ Sprint计划会议（Sprint Planning Meeting）
+ 每日会议（Daily Scrum Meeting）
+ Sprint 评审会议（Sprint Review Meeting）
+ Sprint 回顾回忆（Sprint RetroSpective Meeting）
+  </description>
+    </item>
     
     <item>
       <title>简介</title>
