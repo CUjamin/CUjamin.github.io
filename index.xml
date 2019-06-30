@@ -6,10 +6,21 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jun 2019 19:08:01 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2019 19:52:18 +0800</lastBuildDate>
     
 	<atom:link href="https://cujamin.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>简介</title>
+      <link>https://cujamin.github.io/about/</link>
+      <pubDate>Sun, 30 Jun 2019 19:52:18 +0800</pubDate>
+      
+      <guid>https://cujamin.github.io/about/</guid>
+      <description>2019年6月30日
+偶然发现静态网站生成器Hugo，尝试之后发现非常好用。 之前用过hexo，但由于不习惯，博客也没有再进行过更新。
+目前已经把替换为Hugo，以前在有道云笔记上整理的笔记将逐步整理迁移到该博客中。</description>
+    </item>
     
     <item>
       <title>平台系统开发要求</title>
