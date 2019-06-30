@@ -3,12 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cujamin.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>https://cujamin.github.io/post/first/</loc>
+    <lastmod>2019-06-30T18:00:07+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://cujamin.github.io/</loc>
+    <lastmod>2019-06-30T18:00:07+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cujamin.github.io/post/</loc>
+    <lastmod>2019-06-30T18:00:07+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cujamin.github.io/about/</loc>
+    <lastmod>2019-06-30T17:59:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cujamin.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
