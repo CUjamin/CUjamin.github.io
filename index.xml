@@ -6,35 +6,44 @@
     <description>Recent content on CUjamin 海浦新生地</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2019 16:09:53 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2019 20:11:55 +0800</lastBuildDate>
     
 	<atom:link href="https://cujamin.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>敏捷原则</title>
+      <title>Diary 20190701 海浦新生地</title>
+      <link>https://cujamin.github.io/post/diary20190701/</link>
+      <pubDate>Mon, 01 Jul 2019 20:11:55 +0800</pubDate>
+      
+      <guid>https://cujamin.github.io/post/diary20190701/</guid>
+      <description>海浦新生地</description>
+    </item>
+    
+    <item>
+      <title>Scrum 敏捷原则</title>
       <link>https://cujamin.github.io/post/scrum2/</link>
       <pubDate>Mon, 01 Jul 2019 16:09:53 +0800</pubDate>
       
       <guid>https://cujamin.github.io/post/scrum2/</guid>
-      <description> 敏捷原则 可变形和不确定性  积极参用有帮助的可变性
+      <description>敏捷原则 可变形和不确定性  积极参用有帮助的可变性
  采用迭代和增量开发
  迭代开发：承认我们在把事情做对之前有可能做错，把事情做好之前有可能做坏。本身是一个有计划的修改策略。
  增量开发：先构建部分，再构建整体。
   Scrum 并不是每次做一个阶段的工作，而是每次做一个特性的工作。
  通过检视、调整和透明来利用可变形
 Scrum的核心原则是检视、调整和透明性。
-   维度 计划驱动 Scrum     过程定义的程度 一套明确定义的顺序 复杂过程无事时先制定的完整规则   产出物的随即程度 产出物可变形很小或者不存在 预计有变化，因为我们不是重复构建相同的东西   利用的反馈的数量 很少、很晚 频繁、尽早         减少各种各样的不确定因素
+     维度 计划驱动 Scrum     过程定义的程度 一套明确定义的顺序 复杂过程无事时先制定的完整规则   产出物的随即程度 产出物可变形很小或者不存在 预计有变化，因为我们不是重复构建相同的东西   利用的反馈的数量 很少、很晚 频繁、尽早          减少各种各样的不确定因素
  结果不确定性（不确定做什么）：围绕最终产品特性的不确定性。
  方法不确定性（不确定怎么做）：围绕产品的开发过程和技术的不确定性。
    预测和适应  不到最后时刻，不轻易做决定
 “最后责任时刻”原则（Last Responsible Moment，LRM）：不该单单因为通用过程要求此事作出决定，就做出不成熟的决定。而是“不轻易做决定”。推迟做出承诺，直到最后责任时刻再作出重要的、不可逆转的决定。
 大多数人都倾向于等有更多信息之后再做出更明智的决定。
-  经验认知 WIP 进度 执行 </description>
+ 承担 无法一开始就把事情做对</description>
     </item>
     
     <item>
-      <title>Scrum1 基础概念</title>
+      <title>Scrum 基础概念</title>
       <link>https://cujamin.github.io/post/scrum1/</link>
       <pubDate>Sun, 30 Jun 2019 23:50:50 +0800</pubDate>
       
