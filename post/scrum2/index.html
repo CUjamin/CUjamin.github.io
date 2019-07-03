@@ -30,7 +30,7 @@
   <aside class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      <a href="https://cujamin.github.io"><h1>CUjamin 海浦新生地</h1></a>
+      <a href="https://cujamin.github.io/"><h1>CUjamin 海浦新生地</h1></a>
       <p> 感谢Jekyll，虽然是个hugo官方教程的主题。作者的twitter连不上，只能感谢 Jekyll 了</p>
       <p class="lead">
       An elegant open source and mobile first theme for <a href="http://hugo.spf13.com">hugo</a> made by <a href="http://twitter.com/mdo">@mdo</a>. Originally made for Jekyll.
@@ -39,7 +39,7 @@
 
     <nav>
       <ul class="sidebar-nav">
-        <li><a href="https://cujamin.github.io">Home</a> </li>
+        <li><a href="https://cujamin.github.io/">Home</a> </li>
         
       </ul>
     </nav>
@@ -197,17 +197,59 @@
 
 <p><span style="border-bottom:2px dashed black;">在Scrum中，任何时候的重要假设都要力求最少。<span></p></li>
 
-<li><p>利用多个认知循环并行的优势</p></li>
+<li><p>利用多个认知循环并行的优势</p>
 
-<li><p>妥善组织工作流程已获得快速反馈</p></li>
+<p>顺序开发方式是在特性工作快结束时（经过构建、集成、测试后）获得<strong>认知</strong>。此时，可能已经“没有足够时间利用认知”或者“利用认知的成本太高”。</p>
+
+<p><span style="border-bottom:2px dashed black;">利用反馈循环来提高认知。<span></p>
+
+<p>Scrum的几种认知循环：</p>
+
+<ul>
+<li>结对编程：秒级反馈。</li>
+<li>测试驱动开发：分钟级反馈。</li>
+<li>每日例会：每日循环。</li>
+<li>冲刺评审活动：迭代级的循环。</li>
+</ul></li>
+
+<li><p>妥善组织工作流程已获得<strong>快速反馈</strong></p>
+
+<p><strong>计划驱动开发的问题</strong>：“我们可以同时开发一堆组件，等到后期集成阶段再顺利组装成一个紧密结合的整体”，这种想法<strong>几乎不可能实现</strong>。即便在开发组建之前定义有精心构思的接口，在集成时也有可能出错。</p>
+
+<p><span style="border-bottom:2px dashed black;">通过组织好工作流，在认知循环中移动，尽快获取反馈。<span></p></li>
 </ol>
 
 <h2 id="wip-work-in-process">WIP （work in process）</h2>
 
-<ol>
-<li><p>批量大小要经济合理</p></li>
+<p>WIP：<span style="border-bottom:2px dashed black;">表示已经开始但尚未结束的工作清单。<span></p>
 
-<li><p>识别并管理库存以达到良好的流动</p></li>
+<ol>
+<li><p>批量大小要经济合理</p>
+
+<ul>
+<li><p>传统的<strong>计划驱动</strong>的<strong>顺序开发过程核心理念</strong>：倾向于将相同的类型的工作分批汇集到一个独立阶段中执行。又称为“整体推进”。该理念来源于<strong>传统制造业</strong>的<strong>规模经济原则</strong>：认为单件产品的成本会随着生产数量的增加而降低。</p></li>
+
+<li><p>单件流程：批量大小为1，一次只处理一个需求，做完所有活动后准备交付给客户。但该模式<strong>充其量也只是局部优势</strong>。</p>
+
+<p><strong>小批量的优势</strong>
+|优势|描述|
+|&ndash;|&ndash;|
+|减少周期时间|批量较小时，等待处理的工作也比较少，意味着等待时间不会太长。工作完成得更快|
+|减少工作的变动|想象一下，一个餐馆，顾客零散地进进出出（在餐馆里良好流动）。此时从一辆大新观光巴士走西来一大批顾客（大批量），对餐馆中的人流有什么影响？|
+|加速反馈|小批量有利于加快快速反馈，能够最小化错误影响|
+|减少风险|小批量意味着受变更影响的库存更少。小批量失败的可能性也更小|
+|降低管理成本|大批量工作有管理成本|
+|积极性和紧迫性提高|小批量能够让人<strong>更加专注</strong>，<strong>更有责任感</strong>。与大批量相比，在处理小批量时，更容易理解拖延和失败的后果|
+|降低成本，减少计划延期|如果在使用大批量时出错，成本和时间安排上都会出现大范围的错误。使用小批量工作，<strong>则不会错的太离谱</strong>。|</p></li>
+</ul></li>
+
+<li><p>识别并管理库存以达到良好的流动</p>
+
+<p>库存：也称为WIP，“流程中的产品、“半成品”、“在制品”。</p>
+
+<p>软件开发企业</p>
+
+<p><span style="border-bottom:2px dashed black;">Scrum的目标是合理地平衡适量库存和过多库存之间的关系。<span></p></li>
 
 <li><p>关注闲置工作，而非闲置人员</p></li>
 
