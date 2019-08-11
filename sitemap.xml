@@ -4,19 +4,34 @@
   
   <url>
     <loc>https://cujamin.github.io/</loc>
-    <lastmod>2019-08-05T10:37:49+08:00</lastmod>
+    <lastmod>2019-08-11T17:21:43+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cujamin.github.io/post/diary20190811/</loc>
+    <lastmod>2019-08-11T17:21:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cujamin.github.io/post/</loc>
+    <lastmod>2019-08-11T17:21:43+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cujamin.github.io/post/diary20190806/</loc>
+    <lastmod>2019-08-06T18:39:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cujamin.github.io/post/jvm_gc20190806/</loc>
+    <lastmod>2019-08-06T11:47:58+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://cujamin.github.io/post/diary20190805/</loc>
     <lastmod>2019-08-05T10:37:49+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cujamin.github.io/post/</loc>
-    <lastmod>2019-08-05T10:37:49+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

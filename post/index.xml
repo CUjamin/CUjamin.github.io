@@ -6,10 +6,39 @@
     <description>Recent content in Posts on CUjamin 海浦新生地</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Aug 2019 10:37:49 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2019 17:21:43 +0800</lastBuildDate>
     
 	<atom:link href="https://cujamin.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Diary20190811 太阳热照入窗户</title>
+      <link>https://cujamin.github.io/post/diary20190811/</link>
+      <pubDate>Sun, 11 Aug 2019 17:21:43 +0800</pubDate>
+      
+      <guid>https://cujamin.github.io/post/diary20190811/</guid>
+      <description>我的窗户上满是灰尘，太阳光透过窗户斜照入我的房间，照到我正在睡觉的椅子上。终于在下午快到饭点时，我被热醒了。
+楼上的空调掉下来几滴水，真希望它们能飘到我的窗户上，把那些灰尘冲洗掉。</description>
+    </item>
+    
+    <item>
+      <title>Diary20190806 推翻天平</title>
+      <link>https://cujamin.github.io/post/diary20190806/</link>
+      <pubDate>Tue, 06 Aug 2019 18:39:49 +0800</pubDate>
+      
+      <guid>https://cujamin.github.io/post/diary20190806/</guid>
+      <description>推翻天平</description>
+    </item>
+    
+    <item>
+      <title>Jvm_gc20190806</title>
+      <link>https://cujamin.github.io/post/jvm_gc20190806/</link>
+      <pubDate>Tue, 06 Aug 2019 11:47:58 +0800</pubDate>
+      
+      <guid>https://cujamin.github.io/post/jvm_gc20190806/</guid>
+      <description>G1（garbage first）：侧重点在于处理垃圾最多的区间（垃圾优先）。
+并行和并发：二者均可表示多个人物一起执行，但偏重点有些不同。并发偏重于多个任务交替执行，而多个任务之间有可能还是串行的。并行是真正意义上的“同时执行”</description>
+    </item>
     
     <item>
       <title>Diary20190805 - 孤注一掷</title>
